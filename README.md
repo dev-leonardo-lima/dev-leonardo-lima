@@ -7,7 +7,6 @@
 
 <ul align="left">
   <li>🎓 Studying <strong>Computer Science</strong></li>
-  <li>🌱 Currently learning <strong>Node.js</strong> to become a specialist</li>
   <li>📫 You can reach me at <strong>contato.leonardolima@outlook.com</strong></li>
   <li>💼 Connect with me on <strong><a href="https://www.linkedin.com/in/dev-leonardo-lima/">LinkedIn</a></strong></li>
 </ul>
@@ -52,9 +51,17 @@
 
 <h3 align="center">Professional Experience:</h3>
 
+[<img align="left" height="94px" width="94px" alt="Alest" src="https://media.licdn.com/dms/image/v2/D4D0BAQHvFk_LIOCrmg/company-logo_200_200/company-logo_200_200/0/1718399636034/bluesaude_logo?e=1747872000&v=beta&t=E-PAnojxn3dUbrQA2JtUBrnPwOEv6oUNJx5De9GiKQA"/>](https://alest.com.br/)
+**Mid-Level Software Developer** \
+[**Blue**](https://alest.com.br/) • 5 months
+
+<br>
+<br>
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Alest" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
 **Software Developer** \
-[**Alest**](https://alest.com.br/) • 1 year and 4 months
+[**Alest**](https://alest.com.br/) • 1 year and 6 months
 <br>
 <br>
 <br>
@@ -64,4 +71,4 @@
 
 [<img align="left" height="94px" width="94px" alt="UNIP" src="https://play-lh.googleusercontent.com/VzUfEzZ2q-y6lWl9liKGTxg7d6Ym5i7yYaHNHZogN8VDrx0RJJ6055mRVUzNMqT7ci9v"/>](https://unip.br/)
 **Computer Science** \
-[**UNIP**](https://unip.br/) • 6th Semester
+[**UNIP**](https://unip.br/) • 7th Semester
