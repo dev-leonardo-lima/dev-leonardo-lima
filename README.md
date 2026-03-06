@@ -1,6 +1,6 @@
 # Leonardo Lima
 
-Senior Software Engineer — Cloud • Data • AI
+Senior Software Developer — Cloud • Data • AI
 
 Computer Scientist focused on backend and intelligent systems.
 
