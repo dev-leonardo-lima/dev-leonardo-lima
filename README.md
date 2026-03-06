@@ -12,5 +12,5 @@ Python • FastAPI • TypeScript • Azure • Docker • PostgreSQL
 
 ## Reach me out
 
-LinkedIn — https://www.linkedin.com/in/dev-leonardo-lima
+LinkedIn — https://www.linkedin.com/in/dev-leonardo-lima  
 Email — [contato.leonardolima@outlook.com](mailto:contato.leonardolima@outlook.com)
